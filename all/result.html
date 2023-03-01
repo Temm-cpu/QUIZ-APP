@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VIEW RESULT</title>
+    <link rel="stylesheet" href="../styles/result.css" />
+  </head>
+  <body>
+    <div class="result-box">
+      <h2>You successflly finished your quiz</h2>
+      <div class="result-group">
+        <p>You Got:</p>
+        <p class="score"></p>
+      </div>
+      <div class="result-group">
+        <p>You Missed:</p>
+        <p class="wrongAnswerCount"></p>
+      </div>
+      <button class="back">Back TO Menu</button>
+      <!-- <button>Continue</button> -->
+      <!-- <button>Got to Dashbord</button> -->
+    </div>
+    <script>
+      const results = JSON.parse(localStorage.getItem("results"));
+
+      document.querySelector(".score").textContent = results.score;
+      document.querySelector(".wrongAnswerCount").textContent =
+        results.wrongAnswerCount;
+
+      let backBtn = document.querySelector(".back");
+      backBtn.addEventListener("click", () => {
+        location.replace("./quiz.html");
+      });
+    </script>
+  </body>
+</html>

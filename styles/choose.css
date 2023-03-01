@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.select-question,
+.math,
+.sport,
+.biology {
+  padding: 5rem;
+}
+.math {
+  font-size: 25px;
+  font: bold;
+  color: darkblue;
+  border-radius: 10px;
+}
+.sport {
+  font-size: 25px;
+  font: bold;
+  color: brown;
+  border-radius: 10px;
+}
+.biology {
+  font-size: 25px;
+  font: bold;
+  color: aqua;
+  border-radius: 10px;
+}
+img {
+  margin: 5px;
+  border-radius: 50%;
+}
+
+.math:hover,
+.sport:hover,
+.biology:hover {
+  font-size: 40px;
+}
+.math {
+  border: none;
+  background: url(../images/maths.jpg);
+}
+.sport {
+  border: none;
+  background: url(../images/sport.jpg);
+}
+.biology {
+  border: none;
+  background: url(../images/biology.png);
+}
+a {
+  border: 2px solid black;
+  padding-top: 5px;
+  padding-right: 3rem;
+  padding-left: 5px;
+  color: white;
+  background-color: green;
+  text-decoration: none;
+}
+.edit {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.first {
+  margin-top: 30px;
+}
+.container3,
+.select-question {
+  text-align: center;
+}
+body {
+  background: url(../images/choose.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  color: brown;
+}

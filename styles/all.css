@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  border: 2px solid black;
+  padding-top: 5px;
+  padding-right: 3rem;
+  padding-left: 5px;
+  color: white;
+  background-color: green;
+  text-decoration: none;
+}
+body {
+  background-color: blue;
+}
+.edit {
+  margin: 10px;
+}
+.login__form,
+.container2,
+.container3,
+.select-question {
+  text-align: center;
+}
+.form-group {
+  margin: 10px;
+}
+.select-question,
+.math,
+.sport {
+  padding: 10px;
+}
+.math,
+.sport {
+  color: white;
+  background-color: green;
+}
+.questionContainer {
+  text-align: center;
+  font-size: 30px;
+}
+.next,
+.submit {
+  margin-left: 41.5rem;
+  margin-top: 10px;
+  color: white;
+  background-color: green;
+  padding: 10px;
+  border-radius: 10px;
+}

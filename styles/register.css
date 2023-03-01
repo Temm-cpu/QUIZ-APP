@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  border: 2px solid black;
+  padding-top: 5px;
+  padding-right: 3rem;
+  padding-left: 5px;
+  color: cornsilk;
+  background-color: brown;
+  text-decoration: none;
+}
+.edit {
+  margin: 10px;
+}
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.466), rgba(0, 0, 0, 0.466)),
+    url(../images/register.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.login__form,
+.container2,
+.container3,
+.select-question {
+  text-align: center;
+}
+.submit2 {
+  margin: 5px;
+  border: 2px solid burlywood;
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 5px;
+  padding: 5px;
+}
+.submit2:hover {
+  box-shadow: 0 0 5px 10px rgba(26, 27, 25, 0.575);
+}
+.form-group {
+  margin: 10px;
+  color: brown;
+  font-weight: 900;
+}
+
+/* note . is for label while # is for input */
+.fullname,
+.username,
+.password {
+  font: bold;
+
+  font-style: oblique;
+}
+#fullname,
+#username,
+#password {
+  background-color: burlywood;
+  border: 2px dotted blue;
+}
+#fullname:hover,
+#username:hover,
+#password:hover {
+  padding: 5px;
+  box-shadow: 0 0 5px 10px rgba(26, 27, 25, 0.575);
+  background-color: transparent;
+}
+.register,
+.login__form {
+  border: 2px solid brown;
+  background-color: rgba(255, 255, 255, 0.404);
+  width: 25rem;
+  margin-left: 30rem;
+  margin-top: 2rem;
+  justify-content: center;
+  box-shadow: 0 0 5px 10px rgba(28, 29, 28, 0.575);
+}
+h1 {
+  color: brown;
+}

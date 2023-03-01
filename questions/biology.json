@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Hansen's disease is more commonly known by which name?",
+    "answer": "leprosy",
+    "options": ["leprosy", "cancer", "stroke", "fatigue"],
+    "id": 1
+  },
+  {
+    "question": "Botany is the study of what life form?",
+    "answer": "plants",
+    "options": ["environment", "insect", "plants", "animals"],
+    "id": 2
+  },
+  {
+    "question": "What is the human body's largest organ?",
+    "answer": "skin",
+    "options": ["liver", "kidney", "heart", "skin"],
+    "id": 3
+  },
+  {
+    "question": " snails have teeth",
+    "answer": "true",
+    "options": ["true", "false", "maybe", "not-sure"],
+    "id": 4
+  },
+  {
+    "question": "What part of the human body is the Mandible?",
+    "answer": "lower jaw bone",
+    "options": [
+      " beneath tooth gum",
+      "upper jaw bone",
+      "above the tongue",
+      "lower jaw bone"
+    ],
+    "id": 5
+  },
+  {
+    "question": "How many bones does an adult human have?",
+    "answer": 206,
+    "options": [302, 180, 206, 300],
+    "id": 6
+  },
+  {
+    "question": " jellyfish have hearts",
+    "answer": "false",
+    "options": ["true", "false", "maybe", "not-sure"],
+    "id": 7
+  },
+  {
+    "question": "Which French microbiologist discovered the process of pasteurisation?",
+    "answer": "Louis Pasteur",
+    "options": [
+      "louis viton",
+      "robert hooke",
+      "felix dujardin",
+      "Louis Pasteur"
+    ],
+    "id": 8
+  },
+  {
+    "question": "What year was the first animal cloned?",
+    "answer": 1996,
+    "options": [2012, 2019, 1996, 1990],
+    "id": 9
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming",
+    "options": [
+      "Alexander Fleming",
+      "ben carson",
+      "theodor schwan",
+      "luther mathus"
+    ],
+    "id": 10
+  },
+  {
+    "question": "When was the Human Genome project completed?",
+    "answer": 2003,
+    "options": [2000, 2003, 2004, 2002],
+    "id": 11
+  },
+  {
+    "question": "How many species are estimated to live on Earth?",
+    "answer": "8.7million",
+    "options": ["1billion", "10thousand", "4.6million", "8.7million"],
+    "id": 12
+  },
+  {
+    "question": "A DNA molecule is described as being what shape?",
+    "answer": "Double helix",
+    "options": ["helix", "double helix", "spiral", "tetrahedal"],
+    "id": 13
+  },
+  {
+    "question": "Heterochromia results in which change in physical appearance?",
+    "answer": "Different coloured eyes",
+    "options": [
+      "Different coloured eyes",
+      "Different shin colour",
+      "Different hair colour",
+      "Different length of legs"
+    ],
+    "id": 14
+  },
+  {
+    "question": "Crohn's disease is part of which disease group?",
+    "answer": "Inflammatory bowel disease",
+    "options": [
+      "Inflamatory gum disease",
+      "Inflamatory foot disease",
+      "Inflammatory bowel disease",
+      "Inflamatory jaw disease"
+    ],
+    "id": 15
+  },
+  {
+    "question": "How many neck vertebrae do giraffes have, compared to a human's seven?",
+    "answer": "seven",
+    "options": ["seven", "eight", "nine", "ten"],
+    "id": 16
+  },
+  {
+    "question": "Which food substance helps move waste through the body?",
+    "answer": "Fibre",
+    "options": ["Fibre", "Athries", "Vein", "Spine"],
+    "id": 17
+  },
+  {
+    "question": "The term 'renal' refers to which organs?",
+    "answer": "kidneys",
+    "options": ["stomach", "lungs", "livers", "kidneys"],
+    "id": 18
+  },
+  {
+    "question": "What is the name of the biggest part of the human brain?",
+    "answer": "cerebrum",
+    "options": ["thalamus", "medulla", "cerebrum", "cranial"],
+    "id": 19
+  },
+  {
+    "question": "cell walls be found in",
+    "answer": "plant cells",
+    "options": ["plant cells", "animal cells", "both", "none of the above"],
+    "id": 20
+  },
+  {
+    "question": "which is an animal",
+    "answer": "salamander",
+    "options": ["mango", "shrob", "salamander", "fern"],
+    "id": 21
+  }
+]

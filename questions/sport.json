@@ -1,0 +1,62 @@
+[
+  {
+    "question": "who is the greatest player?",
+    "answer": "none of the above",
+    "options": ["messi", "ronaldo", "kaka", "none of the above"],
+    "id": 1
+  },
+  {
+    "question": "who highest goalscorer",
+    "answer": "ronaldo",
+    "options": ["ronaldo", "messi", "kaka", "none of the above"],
+    "id": 2
+  },
+  {
+    "question": "who scored the highest number of goals in one season",
+    "answer": "messi",
+    "options": ["messi", "ronaldo", "pele", "maradona"],
+    "id": 3
+  },
+  {
+    "question": "what is the first country to win a worldcup with first match loss",
+    "answer": "spain",
+    "options": ["france", "argentina", "spain", "portugal"],
+    "id": 4
+  },
+  {
+    "question": " What sport is described as “the beautiful game?”",
+    "answer": "football",
+    "options": ["football", "basketball", "rugby", "boxing"],
+    "id": 5
+  },
+  {
+    "question": " Which country won the first ever football world cup? ",
+    "answer": "uruguay",
+    "options": ["france", "argentina", "brazil", "uruguay"],
+    "id": 6
+  },
+  {
+    "question": "How many regulation strokes are there in swimming?",
+    "answer": "four",
+    "options": ["seven", "five", "eight", "four"],
+    "id": 7
+  },
+  {
+    "question": "How long is the total distance of a marathon? ",
+    "answer": "26.2 miles",
+    "options": ["34.8 miles", "26.2 miles", "40 miles", "10 miles"],
+    "id": 8
+  },
+  {
+    "question": "How many gold medals has Usain Bolt won?",
+    "answer": "eight",
+    "options": ["eight", "twelve", "seven", "nine"],
+    "id": 9
+  },
+  {
+    "question": " What is his world record time for the 100 metres?",
+    "answer": "9.58s",
+    "options": ["10.02s", "9.58s", "7.81s", "8.14s"],
+    "id": 10
+  }
+]
